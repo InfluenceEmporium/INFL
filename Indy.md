@@ -2,13 +2,14 @@
 This page provides information for Indy operations
 
 ## LINKS
-* Home
-* Indy
-* PI
-* PVE/P
+* [Home](README.md)
+* [Indy](Indy.md)
+* [PI](PI.md)
+* [PVE](PVE.md)
+* [Bylaws](Bylaws.md)
 
 ## REPROCESSING
-Reprocess here ->  WW-KGD - Sarcos Memorial Mens Club 
+Reprocess here ->  WW-KGD - Sarcos Memorial Mens Club
 
 ## CONTRACTS
 1) Open our [Corporation Spreadsheet](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=1376915926)

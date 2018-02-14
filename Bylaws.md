@@ -1,3 +1,10 @@
+# LINKS
+* [Home](README.md)
+* [Indy](Indy.md)
+* [PI](PI.md)
+* [PVE](PVE.md)
+* [Bylaws](Bylaws.md)
+
 # DEFINITIONS
 
 **INFLUENCE EMPORIUM** - It is a Corporation in the Eve Online Universe hereafter referred as INFL with a statement of purpose defined by the By-laws in the scope of this document.
