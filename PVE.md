@@ -64,7 +64,7 @@ Your PVE fitting capabilities should focus in the following aspects:
  4. Enable your **Medium Armor Repairer II**,
  5. Enable your **Reactive Armor Hardener**,
  6. Enable your **F-90 Compact Sensor Booster**,
- 7. If you have an MTU drop it and set your ship to orbit at 5000m, otherwise jumpt to step 8,
+ 7. If you have an MTU drop it and set your ship to orbit at 5000m, otherwise jumpt to step 9,
  8. Bookmark your MTU position,
  9. Align your ship to the nearest station and set your speed to 150m/s.
  10. If you find Missile Towers in your PVE site, use **Hornets I** to eliminate it, otherwise jump to step 11 (you will loose at least 2 drones in this process if you dont retrieve them when they start getting hits on their shields),
@@ -83,4 +83,3 @@ Your PVE fitting capabilities should focus in the following aspects:
  23. Warp back to the station to drop your loot,
  24. Undock, access your bookmarks and warp back to your MTU,
  25. Scoop your MTU into your cargo hold.
- 
