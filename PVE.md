@@ -49,30 +49,30 @@ Your PVE fitting capabilities should focus in the following aspects:
  Caldari Drones are recommended because these drones are focused in Kinetic Damage.
  
  You can easily complete "Guristas Forlorn Rally Point(class 6, level 4)" with a properly fitted Vexor (yes a Vexor, not a Vexor Navy Issue).
- Check this fitting here: MGK PVE 2.4 Solo.
+ Check this fitting here: **[MGK PVE 2.4 Solo](https://fleet-up.com/Doctrine/Item/40479)**.
  
  ## Tactics
  The following steps were designed to increase your survivability when doing Guristas PVE sites in the Vexor Fitting.
  
  1. Get yourself a propperly fitted Vexor (or better) and Undock,
- 2. Open up your Probe Scanner (ALT-P),
- 3. Right-click in one of the combat sites and "Warp to 70Km",
- 4. Enable your Medium Armor Repairer II,
- 5. Enable your Reactive Armor Hardener,
+ 2. Open up your **Probe Scanner (ALT-P)**,
+ 3. Right-click in one of the combat sites and **Warp to 70Km**,
+ 4. Enable your **Medium Armor Repairer II**,
+ 5. Enable your **Reactive Armor Hardener**,
  6. If you have an MTU drop it and set your ship to orbit at 5000m, otherwise jumpt to step 8,
  7. Bookmark your MTU position,
  8. Align your ship to the nearest station and set your speed to 150m/s.
  9. If you find Missile Towers in your PVE site, use Hornets I to eliminate it, otherwise jump to step 11 (you will loose at least 2 drones in this process if you dont retrieve them when they start getting hits on their shields),
  10. After defeating the Missile Tower, retrieve your cheap Hornets I to your drone bay.
- 11. Drop your Hornets II drones.
- 12. Target and destroy Frigates,
- 13. Target and destroy Destroyers,
- 14. Retrieve your Hornets II to your drone bay and deploy your Vespas II,
- 15. Target and destroy Cruisers
- 16. Target and destroy Battlecruisers,
- 17. Retrieve your Vespas II,
- 18. Launch your Salvage Drones and order them to salvage.
- 19. After salvaging everything, retrieve your salvage drones,
+ 11. Drop your **Hornets II** drones.
+ 12. Target and destroy **Frigates**,
+ 13. Target and destroy **Destroyers**,
+ 14. Retrieve your **Hornets II** to your drone bay and deploy your Vespas II,
+ 15. Target and destroy **Cruisers**
+ 16. Target and destroy **Battlecruisers**,
+ 17. Retrieve your **Vespas II**,
+ 18. Launch your **Salvage Drones** and order them to salvage.
+ 19. After salvaging everything, retrieve your Salvage Drones,
  20. Access your MTU and loot all,
  21. Warp back to the station to drop your loot,
  22. Undock, access your bookmarks and warp back to your MTU,
