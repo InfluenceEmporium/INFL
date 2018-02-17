@@ -62,8 +62,8 @@ Your PVE fitting capabilities should focus in the following aspects:
  6. If you have an MTU drop it and set your ship to orbit at 5000m, otherwise jumpt to step 8,
  7. Bookmark your MTU position,
  8. Align your ship to the nearest station and set your speed to 150m/s.
- 9. If you find Missile Towers in your PVE site, use Hornets I to eliminate it, otherwise jump to step 11 (you will loose at least 2 drones in this process if you dont retrieve them when they start getting hits on their shields),
- 10. After defeating the Missile Tower, retrieve your cheap Hornets I to your drone bay.
+ 9. If you find Missile Towers in your PVE site, use **Hornets I** to eliminate it, otherwise jump to step 11 (you will loose at least 2 drones in this process if you dont retrieve them when they start getting hits on their shields),
+ 10. After defeating the **Guristas Missile Tower**, retrieve your cheap **Hornets I** to your drone bay.
  11. Drop your **Hornets II** drones.
  12. Target and destroy **Frigates**,
  13. Target and destroy **Destroyers**,
