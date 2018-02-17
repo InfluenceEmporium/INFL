@@ -15,7 +15,7 @@ Increasing our Military ADM has two direct consequences:
  - Increse the amount of PVE sites (anomalies) in the local system,
  - Increase our SoV Active Defense Multiplier (ADM).
  
-IMPORTANT: If the Military ADM falls below level 1 the amount of PVE sites will drop to one (and this is something we do NOT want, right?)
+**IMPORTANT:** If the Military ADM falls below level 1 the amount of PVE sites will drop to one (and this is something we do NOT want, right?)
 
 ## Local System
 PVE operations should be executed in WW-KGD system.
@@ -63,22 +63,24 @@ Your PVE fitting capabilities should focus in the following aspects:
  3. Right-click in one of the combat sites and **Warp to 70Km**,
  4. Enable your **Medium Armor Repairer II**,
  5. Enable your **Reactive Armor Hardener**,
- 6. If you have an MTU drop it and set your ship to orbit at 5000m, otherwise jumpt to step 8,
- 7. Bookmark your MTU position,
- 8. Align your ship to the nearest station and set your speed to 150m/s.
- 9. If you find Missile Towers in your PVE site, use **Hornets I** to eliminate it, otherwise jump to step 11 (you will loose at least 2 drones in this process if you dont retrieve them when they start getting hits on their shields),
- 10. After defeating the **Guristas Missile Tower**, retrieve your cheap **Hornets I** to your drone bay.
- 11. Drop your **Hornets II** drones.
- 12. Target and destroy **Frigates**,
- 13. Target and destroy **Destroyers**,
- 14. Retrieve your **Hornets II** to your drone bay and deploy your Vespas II,
- 15. Target and destroy **Cruisers**
- 16. Target and destroy **Battlecruisers**,
- 17. Retrieve your **Vespas II**,
- 18. Launch your **Salvage Drones** and order them to salvage.
- 19. After salvaging everything, retrieve your Salvage Drones,
- 20. Access your MTU and loot all,
- 21. Warp back to the station to drop your loot,
- 22. Undock, access your bookmarks and warp back to your MTU,
- 23. Scoop your MTU into your cargo hold.
+ 6. Enable your **F-90 Compact Sensor Booster**,
+ 7. If you have an MTU drop it and set your ship to orbit at 5000m, otherwise jumpt to step 8,
+ 8. Bookmark your MTU position,
+ 9. Align your ship to the nearest station and set your speed to 150m/s.
+ 10. If you find Missile Towers in your PVE site, use **Hornets I** to eliminate it, otherwise jump to step 11 (you will loose at least 2 drones in this process if you dont retrieve them when they start getting hits on their shields),
+ 11. After defeating the **Guristas Missile Tower**, retrieve your cheap **Hornets I** to your drone bay.
+ 12. Deploy your **Hornets II** drones.
+ 13. Target and destroy **Frigates**,
+ 14. Target and destroy **Destroyers**,
+ 15. Retrieve your **Hornets II** to your drone bay,
+ 16. Deploy your **Vespas II** drones,
+ 17. Target and destroy **Cruisers**
+ 18. Target and destroy **Battlecruisers**,
+ 19. Retrieve your **Vespas II**,
+ 20. Launch your **Salvage Drones** and order them to salvage.
+ 21. After salvaging everything, retrieve your Salvage Drones,
+ 22. Access your MTU and loot all,
+ 23. Warp back to the station to drop your loot,
+ 24. Undock, access your bookmarks and warp back to your MTU,
+ 25. Scoop your MTU into your cargo hold.
  
