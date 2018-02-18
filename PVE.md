@@ -34,7 +34,7 @@ Guristas weaknesses are kinetic and thermal damage.
 
 ## Possible PVE sites you will find
 Here is a list of PVE sites which might appear in our null sec corp base sorted from the easyest to the hardest.
- - Guristas Hidden Den (class 4, level 2),
+ - ]Guristas Hidden Den](PVE/GuristasHiddenDen.md) (class 4, level 2),
  - Guristas Forsaken Den (class 4, level 3),
  - Guristas Forlorn Den (class 4, level 4),
  - Guristas Yard (class 5, level 1),
