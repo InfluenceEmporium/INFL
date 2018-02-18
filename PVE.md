@@ -4,6 +4,7 @@
 * [PI](PI.md)
 * [PVE](PVE.md)
 * [Bylaws](Bylaws.md)
+* [Jump Freight Services](JumpFreight.md)
 
 # PVE
 The objective of this page is to give you information to perform PVE operations.
