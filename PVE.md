@@ -40,7 +40,7 @@ Here is a list of PVE sites which might appear in our null sec corp base sorted 
  - Guristas Yard (class 5, level 1),
  - Guristas Rally Point (class 6, level 1),
  - Guristas Rally Rally Point (class 6, level 2),
- - Guristas Forsaken Rally Point (class 6, level 3),
+ - [Guristas Forsaken Rally Point](PVE/GuristasForsakenRallyPoint.md) (class 6, level 3),
  - Guristas Forlorn Rally Point (class 6, level 4).
  
 ## Fittings
