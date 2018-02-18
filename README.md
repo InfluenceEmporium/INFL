@@ -8,3 +8,4 @@ This wiki will contain work instructions for several subjects of the game.
 * [PI](PI.md)
 * [PVE](PVE.md)
 * [Bylaws](Bylaws.md)
+* [Jump Freight Services](JumpFreight.md)
