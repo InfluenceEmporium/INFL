@@ -6,6 +6,9 @@
 * [Bylaws](Bylaws.md)
 * [Jump Freight Services](JumpFreight.md)
 
+## Spreadsheets
+* [Indy Spreadsheet](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
+
 # Jump Freight Services
 This page will provide information about JF services available to our corp.
 
