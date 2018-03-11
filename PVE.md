@@ -6,6 +6,9 @@
 * [Bylaws](Bylaws.md)
 * [Jump Freight Services](JumpFreight.md)
 
+## Spreadsheets
+* [Indy Spreadsheet](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
+
 # PVE
 The objective of this page is to give you information to perform PVE operations.
 
