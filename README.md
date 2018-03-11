@@ -9,3 +9,6 @@ This wiki will contain work instructions for several subjects of the game.
 * [PVE](PVE.md)
 * [Bylaws](Bylaws.md)
 * [Jump Freight Services](JumpFreight.md)
+
+## Spreadsheets
+* [Indy Spreadsheet](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
