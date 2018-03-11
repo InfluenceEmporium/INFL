@@ -9,6 +9,11 @@ This page provides information for Indy operations
 * [Bylaws](Bylaws.md)
 * [Jump Freight Services](JumpFreight.md)
 
+## Services
+* Fleet up - [Join now](http://fleet-up.com/Group/Join/121BD84BC507BE535ADA71E8EAFA6D88)
+* Discord - [Download](http://discordapp.com/) [Join now](http://discord.gg/83Khnxq)
+* Teamspeak - [Download](http://www.teamspeak3.com) -> Server: bruteforce.solutions
+
 ## Spreadsheets
 * [Indy Spreadsheet](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
 
