@@ -7,7 +7,7 @@
 * [Jump Freight Services](JumpFreight.md)
 
 ## Services
-* Fleet up - [Join now](http://fleet-up.com/Group/Join/121BD84BC507BE535ADA71E8EAFA6D88)
+* Fleet up - [Join now](http://fleet-up.com/Group/Join/121BD84BC507BE535ADA71E8EAFA6D88) / [Doctrines](http://fleet-up.com/Doctrine/Index/49960)
 * Discord - [Download](http://discordapp.com/) / [Join now](http://discord.gg/83Khnxq)
 * Teamspeak - [Download](http://www.teamspeak3.com) -> Server: bruteforce.solutions
 
