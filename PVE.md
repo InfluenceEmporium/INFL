@@ -16,7 +16,7 @@ To be on comms is not an option and should not be, even if you do not want to en
 
 Moreover, you can be much more efficient in asking for help using your voice. Do not be shy on this, after all, it is not only about you, it is about other members as well.
 
-In the **Service** section you will find information to set up your VoIP SW.
+In the **Services** section you will find information to set up your VoIP SW.
 
 ## Services
 * Fleet up - [Join now](http://fleet-up.com/Group/Join/121BD84BC507BE535ADA71E8EAFA6D88) / [Doctrines](http://fleet-up.com/Doctrine/Index/49960)
