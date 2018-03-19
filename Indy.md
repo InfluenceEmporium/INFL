@@ -6,8 +6,9 @@ This page provides information for Indy operations
 * [Indy](Indy.md)
 * [PI](PI.md)
 * [PVE](PVE.md)
-* [Bylaws](Bylaws.md)
 * [Jump Freight Services](JumpFreight.md)
+* [Human Resources](HumanResources.md)
+* [Bylaws](Bylaws.md)
 
 ## Services
 * Fleet up - [Join now](http://fleet-up.com/Group/Join/121BD84BC507BE535ADA71E8EAFA6D88) / [Doctrines](http://fleet-up.com/Doctrine/Index/49960)
