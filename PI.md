@@ -1,6 +1,9 @@
 # Planetary Interaction
 This is a quick guide about PI.
-First things first...
+
+PI is a quick way to ensure some passive isk farming in game.
+
+Before venturing into PI check the **Skill** and **Items sections**, shown below.
 
 ## LINKS
 * [Home](README.md)
