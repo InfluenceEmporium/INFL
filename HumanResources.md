@@ -64,22 +64,32 @@ The corporation advert must clearly indicate what are the activities in which th
 9. Jump Freight services.
 
 ## Invitation E-mail
+
 _Hi Mate_
 
-_Why dont you join a Null Sec Corporation with Ore buyback?_
+_Why dont you join a Null Sec Corporation with Ore buyback and a good PI market?_
+
+_No need to be scared of Null Sec._
+
+_We do things as a group and we protect each other._
 
 _Our corp can buy all the ore you mine with prices between Jita Sell and Jita Buy._
+
+_Our corp members are activelly doing PI and buying and selling their stuff through corporation contracts._
+
+_If your thing is not Indy... we are here for you as well._
+
+_Our corp is currently 50/50 distributed between PvP and Indy members._
 
 _If you are interested, please drop me a line so I can give you more info._
 
 _Some details:_
-
 1. _We live in null sec as part of a null sec alliance,_
 2. _We require FULL API._
 3. _We require members to be on comms (Teamspeak) when they are logged on._
 
-
 _Regards_
+
 
 ## Hiring Process
 
