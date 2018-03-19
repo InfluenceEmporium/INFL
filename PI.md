@@ -1,28 +1,20 @@
-# Influence Emporium
-This is the official wiki for Influence Emporium corporation members.
-This wiki will contain work instructions for several subjects of the game.
+# Planetary Interaction
+This is a quick guide about PI.
+First things first...
 
 ## LINKS
 * [Home](README.md)
 * [Indy](Indy.md)
 * [PI](PI.md)
 * [PVE](PVE.md)
-* [Bylaws](Bylaws.md)
 * [Jump Freight Services](JumpFreight.md)
-
-## Services
-* Fleet up - [Join now](http://fleet-up.com/Group/Join/121BD84BC507BE535ADA71E8EAFA6D88) / [Doctrines](http://fleet-up.com/Doctrine/Index/49960)
-* Discord - [Download](http://discordapp.com/) / [Join now](http://discord.gg/83Khnxq)
-* Teamspeak - [Download](http://www.teamspeak3.com) -> Server: bruteforce.solutions
+* [Human Resources](HumanResources.md)
+* [Bylaws](Bylaws.md)
 
 ## Spreadsheets
 * [Indy Spreadsheet](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
 
-## Planetary Interaction
-This is a quick guide about PI.
-First things first...
-
-### Skills
+## Skills
 You must train the following skills before venturing into PI:
  - Command Center Upgrades (Level IV)
  - Interplanetary Consolidation (Level IV)
@@ -30,7 +22,7 @@ You must train the following skills before venturing into PI:
  - Planetology (Level III)
  - Gallente Industrial (Level III)
 
-### Items
+## Items
  You must acquire the following items before venturing into PI:
  - Ephital (Gallente Transport)
  - Iteron Mark V (Gallente Transport)
@@ -39,7 +31,7 @@ You must train the following skills before venturing into PI:
  The Command Centers are available through Corporation Contracts for free.
  You will find Corporation Contracts with a set of Command Centers, one for each planet in our null sec home.
 
-### Procedure
+## Procedure
 Below you will find a step wise procedure to set up a basic PI manufacturing structure.
 Alternativelly, you may want to check this guide here from [EVE University](https://wiki.eveuniversity.org/Planetary_Interaction)
 
