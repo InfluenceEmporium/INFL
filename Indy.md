@@ -1,4 +1,4 @@
-# Influence Emporium
+# Industrial Operations
 This page provides information for Indy operations
 
 ## LINKS
