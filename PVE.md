@@ -1,21 +1,28 @@
-# LINKS
+# PVE
+The objective of this page is to give you information to perform PVE operations.
+
+## LINKS
 * [Home](README.md)
 * [Indy](Indy.md)
 * [PI](PI.md)
 * [PVE](PVE.md)
-* [Bylaws](Bylaws.md)
 * [Jump Freight Services](JumpFreight.md)
+* [Human Resources](HumanResources.md)
+* [Bylaws](Bylaws.md)
+
+## Comms
+Even though it is a rule to be on comms 100% of the time, it is important to understand why you should do it.
+To be on comms is not an option and should not be, even if you do not want to engage in friendly conversations, you should know that most of the intel on neaby systems is presented first and foremost through comms, even though there is an intel channel (which is active nevertheless), you will know firsthanded through comms.
+
+Moreover, you can be much more efficient in asking for help using your voice. Do not be shy on this, after all, it is not only about you, it is about other members as well.
+
+In the **Service** section you will find information to set up your VoIP SW.
 
 ## Services
 * Fleet up - [Join now](http://fleet-up.com/Group/Join/121BD84BC507BE535ADA71E8EAFA6D88) / [Doctrines](http://fleet-up.com/Doctrine/Index/49960)
 * Discord - [Download](http://discordapp.com/) / [Join now](http://discord.gg/83Khnxq)
 * Teamspeak - [Download](http://www.teamspeak3.com) -> Server: bruteforce.solutions
 
-## Spreadsheets
-* [Indy Spreadsheet](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
-
-# PVE
-The objective of this page is to give you information to perform PVE operations.
 
 ## Mission
 Your mission as part of INFL is to keep our Military ADM as high as possible.
