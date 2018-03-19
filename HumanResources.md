@@ -3,6 +3,14 @@
 It is important to have clear goals and establised practices in HR for the corporation to grow in the direction set by its leadership.
 This page will address some of these goals and practices.
 
+## LINKS
+* [Home](README.md)
+* [Indy](Indy.md)
+* [PI](PI.md)
+* [PVE](PVE.md)
+* [Bylaws](Bylaws.md)
+* [Jump Freight Services](JumpFreight.md)
+
 ## Corporation Advert
 
 ### Time zone
