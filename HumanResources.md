@@ -8,8 +8,9 @@ This page will address some of these goals and practices.
 * [Indy](Indy.md)
 * [PI](PI.md)
 * [PVE](PVE.md)
-* [Bylaws](Bylaws.md)
 * [Jump Freight Services](JumpFreight.md)
+* [Human Resources](HumanResources.md)
+* [Bylaws](Bylaws.md)
 
 ## Corporation Advert
 
