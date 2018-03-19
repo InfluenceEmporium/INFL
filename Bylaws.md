@@ -1,8 +1,11 @@
 # LINKS
+## LINKS
 * [Home](README.md)
 * [Indy](Indy.md)
 * [PI](PI.md)
 * [PVE](PVE.md)
+* [Jump Freight Services](JumpFreight.md)
+* [Human Resources](HumanResources.md)
 * [Bylaws](Bylaws.md)
 
 # DEFINITIONS
