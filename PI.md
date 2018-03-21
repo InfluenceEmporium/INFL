@@ -35,7 +35,9 @@ You must train the following skills before venturing into PI:
  You will find Corporation Contracts with a set of Command Centers, one for each planet in our null sec home.
  
  ## Examples
+ 
  Try to organize you PI colony as shown in the following examples:
+ 
  ![PI Colony 1](/PI/PI_Setup_1.png)
 
 ## Procedure
