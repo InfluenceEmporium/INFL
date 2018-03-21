@@ -38,7 +38,7 @@ You must train the following skills before venturing into PI:
  
  Try to organize you PI colony as shown in the following examples:
  
- ![PI Colony 1](/PI/PI_Setup_1.png)
+ ![PIColony1](/PI/PI_Setup_1.png)
 
 ## Procedure
 Below you will find a step wise procedure to set up a basic PI manufacturing structure.
