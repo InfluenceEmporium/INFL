@@ -72,7 +72,7 @@ Your PVE fitting capabilities should focus in the following aspects:
  In order to fight against Guristas it is recommended you make extensive use of Caldari Drones (Hornets and Vespas).
  Caldari Drones are recommended because these drones are focused in Kinetic Damage.
  
- You can easily complete "Guristas Forlorn Rally Point(class 6, level 4)" with a properly fitted Vexor (yes a Vexor, not a Vexor Navy Issue).
+ You can easily complete "Guristas Forlorn Rally Point (class 6, level 4)" with a properly fitted Vexor (yes a Vexor, not a Vexor Navy Issue).
  Check this fitting here: **[MGK PVE 2.5 Solo](https://fleet-up.com/Doctrine/Item/40479)**.
  
  ## Tactics
