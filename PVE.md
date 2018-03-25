@@ -59,6 +59,10 @@ Here is a list of PVE sites which might appear in our null sec corp base sorted 
  - [Guristas Forsaken Rally Point](PVE/GuristasForsakenRallyPoint.md) (class 6, level 3),
  - [Guristas Forlorn Rally Point](PVE/GuristasForlonRallyPoint.md) (class 6, level 4).
  
+ If the Military ADM is above Level 2 you will find the following sites:
+ - Guristas Port (class 7, level 1),
+ - Guristas Hub (class 8, level 1).
+ 
 ## Fittings
 Your PVE fitting capabilities should focus in the following aspects:
  - Improve your Kinetic Resistance,
