@@ -73,7 +73,7 @@ Your PVE fitting capabilities should focus in the following aspects:
  Caldari Drones are recommended because these drones are focused in Kinetic Damage.
  
  You can easily complete "Guristas Forlorn Rally Point(class 6, level 4)" with a properly fitted Vexor (yes a Vexor, not a Vexor Navy Issue).
- Check this fitting here: **[MGK PVE 2.4 Solo](https://fleet-up.com/Doctrine/Item/40479)**.
+ Check this fitting here: **[MGK PVE 2.5 Solo](https://fleet-up.com/Doctrine/Item/40479)**.
  
  ## Tactics
  The following steps were designed to increase your survivability when doing Guristas PVE sites in the Vexor Fitting.
