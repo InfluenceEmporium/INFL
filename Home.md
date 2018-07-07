@@ -17,4 +17,5 @@ This wiki will contain work instructions for several subjects of the game.
 * Teamspeak - [Download](http://www.teamspeak3.com) -> Server: bruteforce.solutions
 
 ## Spreadsheets
-* [Indy Spreadsheet](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
+* [Indy](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
+* [Anomalies](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=961307565)
