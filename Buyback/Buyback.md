@@ -23,7 +23,7 @@ STEP #4 - Paste the selected items in the Quick Estimate window using Jita as th
 STEP #5 - Copy the generated key (EVEPRAISAL ID) for your query located on your browser's address bar.
 STEP #6 - Open the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253)
 STEP #7 - Paste the EVEPRAISAL ID in the spreadsheet (and wait for the magic to happen)
-
+![Example](buyback.gif)
 STEP #8 - Use the **Q-Tip Wrecker Value** as the value for your contract.
 STEP #9 - Create a Contract using the following options:
 **Contract Type** - Item Exchange
