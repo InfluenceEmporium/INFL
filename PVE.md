@@ -35,46 +35,21 @@ Increasing our Military ADM has two direct consequences:
 **IMPORTANT:** If the Military ADM falls below level 1 the amount of PVE sites will drop to one (and this is something we do NOT want, right?)
 
 ## Local System
-PVE operations should be executed in WW-KGD system.
-Our corportation is responsible to keep the ADM in WW-KGD system as high as possible in order to help our alliance (BFG) in defending our SoV.
+PVE operations should be executed in QTTP and 9M systems.
 
 ## Know your enemy (local rats)
 To properly fight against your enemy you should gain knowledge of it. 
-In our local system you will find several PVE sites associated with Guristas presence.
-
-Guristas ships traits are focused on Shield Resistances and Missile Damage (kinetic and thermal).
-Guristas will attack you using the following tactics:
- - 80% Kinetic Damage,
- - 20% Thermal Damage,
- - Radar Jamming.
-Guristas weaknesses are kinetic and thermal damage.
-
-## Possible PVE sites you will find
-Here is a list of PVE sites which might appear in our null sec corp base sorted from the easyest to the hardest.
- - [Guristas Hidden Den](PVE/GuristasHiddenDen.md) (class 4, level 2),
- - Guristas Forsaken Den (class 4, level 3),
- - Guristas Forlorn Den (class 4, level 4),
- - Guristas Yard (class 5, level 1),
- - Guristas Rally Point (class 6, level 1),
- - Guristas Rally Rally Point (class 6, level 2),
- - [Guristas Forsaken Rally Point](PVE/GuristasForsakenRallyPoint.md) (class 6, level 3),
- - [Guristas Forlorn Rally Point](PVE/GuristasForlonRallyPoint.md) (class 6, level 4).
- 
- If the Military ADM is above Level 2 you will find the following sites:
- - Guristas Port (class 7, level 1),
- - Guristas Hub (class 8, level 1).
+In our local system you will find several PVE sites associated with Angels presence.
+Check [Eve Universisty](https://wiki.eveuniversity.org/NPC_damage_types) for more details on damage and resistence profiles for each type of NPC/rats you might find in Eve. 
  
 ## Fittings
 Your PVE fitting capabilities should focus in the following aspects:
- - Improve your Kinetic Resistance,
- - Improve your Kinetic damage,
+ - Improve your Explosive Resistance,
+ - Improve your Explosive damage,
  - Improve your Sensor Strength (optional if using drones).
   
- In order to fight against Guristas it is recommended you make extensive use of Caldari Drones (Hornets and Vespas).
- Caldari Drones are recommended because these drones are focused in Kinetic Damage.
- 
- You can easily complete "Guristas Forlorn Rally Point (class 6, level 4)" with a properly fitted Vexor (yes a Vexor, not a Vexor Navy Issue).
- Check this fitting here: **[MGK PVE 2.5 Solo](https://fleet-up.com/Doctrine/Item/40479)**.
+ In order to fight against Angles it is recommended you make extensive use of Minmatar Drones (explosive Damage).
+ Check this fitting here: **[PVE Solo Cruiser T1 v2.6 (Angels)](http://fleet-up.com/Fitting/Index/49960)**.
  
  ## Tactics
  The following steps were designed to increase your survivability when doing Guristas PVE sites in the Vexor Fitting.
@@ -82,25 +57,17 @@ Your PVE fitting capabilities should focus in the following aspects:
  1. Get yourself a propperly fitted Vexor (or better) and Undock,
  2. Open up your **Probe Scanner (ALT-P)**,
  3. Right-click in one of the combat sites and **Warp to 70Km**,
- 4. Enable your **Medium Armor Repairer II**,
- 5. Enable your **Reactive Armor Hardener**,
+ 4. Enable your **Medium 'Accommodation' Vestment Reconstructer I**,
+ 5. Enable your **Reactive Armor Hardener** and **Upgraded Armor Explosive Hardener I** ,
  6. Enable your **F-90 Compact Sensor Booster**,
  7. If you have an MTU drop it and set your ship to orbit at 5000m, otherwise jumpt to step 9,
  8. Bookmark your MTU position,
  9. Align your ship to the nearest station and set your speed to 150m/s.
- 10. If you find Missile Towers in your PVE site, use **Hornets I** to eliminate it, otherwise jump to step 11 (you will loose at least 2 drones in this process if you dont retrieve them when they start getting hits on their shields),
- 11. After defeating the **Guristas Missile Tower**, retrieve your cheap **Hornets I** to your drone bay.
- 12. Deploy your **Hornets II** drones.
- 13. Target and destroy **Frigates**,
- 14. Target and destroy **Destroyers**,
- 15. Retrieve your **Hornets II** to your drone bay,
- 16. Deploy your **Vespas II** drones,
- 17. Target and destroy **Cruisers**
- 18. Target and destroy **Battlecruisers**,
- 19. Retrieve your **Vespas II**,
- 20. Launch your **Salvage Drones** and order them to salvage.
- 21. After salvaging everything, retrieve your Salvage Drones,
- 22. Access your MTU and loot all,
- 23. Warp back to the station to drop your loot,
- 24. Undock, access your bookmarks and warp back to your MTU,
- 25. Scoop your MTU into your cargo hold.
+ 10. If you find Missile Towers in your PVE site, use your drones to eliminate it first
+ 11. Kill everything on site starting with the smaller rats first since these can kill your drones.
+ 12. After eliminating all rats on grid, launch your **Salvage Drones** and order them to salvage.
+ 12. After salvaging everything, retrieve your Salvage Drones,
+ 14. Access your MTU and loot all,
+ 15. Warp back to the station to drop your loot,
+ 16. Undock, access your bookmarks and warp back to your MTU,
+ 17. Scoop your MTU into your cargo hold.
