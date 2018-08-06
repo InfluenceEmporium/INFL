@@ -7,7 +7,7 @@ Before venturing into PI check the **Skill** and **Items sections**, shown below
 
 ## LINKS
 * [Home](README.md)
-* [Buyback Program](Buyback.md)
+* [Buyback Program](Buyback/Buyback.md)
 * [Indy](Indy.md)
 * [PI](PI.md)
 * [PVE](PVE.md)
