@@ -24,7 +24,9 @@ ORE and Minerals must be placed under an independent Coporation contract to be v
 6. Copy the generated key (EVEPRAISAL ID) for your query located on your browser's address bar.
 7. Open the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253)
 8. Paste the EVEPRAISAL ID in the spreadsheet (and wait for the magic to happen)
+
 ![Example](buyback.gif)
+
 9. Use the **Q-Tip Wrecker Value** as the value for your contract.
 10. Create a Contract using the following options:
 **Contract Type** - Item Exchange
@@ -39,4 +41,4 @@ ORE and Minerals must be placed under an independent Coporation contract to be v
 
 **Description** - Buyback Program - "EVEPRAISAL ID"
 
-**NOTE:** On the description use the EVEPRAISAL ID that you pasted in the Q-Tip spreadsheet, example: "Buyback Program - isk0u"
+**NOTE:** On the description use the EVEPRAISAL ID that you pasted in the Q-Tip spreadsheet, example: "Buyback Program - huh8f"
