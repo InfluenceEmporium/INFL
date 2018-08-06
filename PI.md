@@ -7,15 +7,13 @@ Before venturing into PI check the **Skill** and **Items sections**, shown below
 
 ## LINKS
 * [Home](README.md)
+* [Buyback Program](Buyback.md)
 * [Indy](Indy.md)
 * [PI](PI.md)
 * [PVE](PVE.md)
 * [Jump Freight Services](JumpFreight.md)
 * [Human Resources](HumanResources.md)
 * [Bylaws](Bylaws.md)
-
-## Spreadsheets
-* [Indy Spreadsheet](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
 
 ## Skills
 You must train the following skills before venturing into PI:
