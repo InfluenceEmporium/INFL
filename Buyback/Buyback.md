@@ -15,7 +15,7 @@ This page will guide you on a step-by-step process to submit corporation contrac
 We ask you not to mix ORE and Minerals with other stuff that you want to sell.
 ORE and Minerals must be placed under an independent Coporation contract to be valid and accepted.
 
-## PROCESS
+## PRICE EVALUATION
 1. Open your Item Hangar
 2. Switch your "Item Hangar" to a "Detailed View" mode AND select the items you want to sell.
 3. Copy the selected items from you "Item Hangar".
@@ -27,8 +27,9 @@ ORE and Minerals must be placed under an independent Coporation contract to be v
 
 ![Example](buyback.gif)
 
-9. Use the **Q-Tip Wrecker Value** as the value for your contract.
-10. Create a Contract using the following options:
+## CONTRACT SET-UP
+1. Use the **Q-Tip Wrecker Value** as the value for your contract.
+2. Create a Contract using the following options:
 **Contract Type** - Item Exchange
 
 **Availablity** - Private
