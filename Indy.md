@@ -3,7 +3,7 @@ This page provides information for Indy operations
 
 ## LINKS
 * [Home](README.md)
-* [Buyback Program](Buyback.md)
+* [Buyback Program](Buyback/Buyback.md)
 * [Indy](Indy.md)
 * [PI](PI.md)
 * [PVE](PVE.md)
