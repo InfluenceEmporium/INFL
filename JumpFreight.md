@@ -3,7 +3,7 @@ This page will provide information about JF services available to our corp.
 
 ## LINKS
 * [Home](README.md)
-* [Buyback Program](Buyback.md)
+* [Buyback Program](Buyback/Buyback.md)
 * [Indy](Indy.md)
 * [PI](PI.md)
 * [PVE](PVE.md)
