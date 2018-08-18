@@ -14,9 +14,9 @@ This page will provide information about JF services available to our corp.
 ## Service 1
  - Availability -> Strange Basement INC
  - Ship From -> Jita IV - Moon 4 - Caldari Navy Assembly Plant 
- - Ship to -> XQ-PXU - The Wall (Blackwater Associates) OR CR-AQH - Acropolis Steakhouse 
+ - Ship to -> QPTT-F - Acropolis Steakhouse 
  - Max Volume -> 340.000 m3 
- - Reward -> 500 isk per m3
+ - Reward -> 350 isk per m3
  - Collateral -> 0.0 isk
  - Expiration -> 1 week
  - Description -> Package to INFL
@@ -27,7 +27,7 @@ This page will provide information about JF services available to our corp.
  - Ship From -> Our constellation 
  - Ship to -> Jita IV - Moon 4 - Caldari Navy Assembly Plant 
  - Max Volume -> 327.000 m3
- - Reward -> 250 isk per m3 
+ - Reward -> 350 isk per m3 
  - Collateral -> 2 bil max
  - Expiration -> 1 week
  - Description -> Package to INFL
@@ -38,7 +38,7 @@ This page will provide information about JF services available to our corp.
  - Ship From -> Our constellation 
  - Ship to -> Jita IV - Moon 4 - Caldari Navy Assembly Plant 
  - Max Volume -> 340.000 m3
- - Reward -> 300 isk per m3 
+ - Reward -> 350 isk per m3 
  - Collateral -> ???
  - Expiration -> 2 weeks
  - Description -> Package to INFL
