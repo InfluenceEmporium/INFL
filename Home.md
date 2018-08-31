@@ -15,7 +15,7 @@ This wiki will contain work instructions for several subjects of the game.
 ## Services
 * Fleet up - [Join now](http://fleet-up.com/Group/Join/121BD84BC507BE535ADA71E8EAFA6D88) / [Sandbox Doctrines](http://fleet-up.com/Doctrine/Index/49960) / [BFG Doctrines](http://fleet-up.com/Fitting/Index/44149)
 * Discord - [Download](http://discordapp.com/) / [Join now](http://discord.gg/83Khnxq)
-* Teamspeak - [Download](http://www.teamspeak3.com) -> Server: bruteforce.solutions
+* Teamspeak - [Download](http://www.teamspeak3.com) -> [Join now](https://drive.google.com/file/d/1MQ6tiW4vZjxbDHg1b9F_sxGrByTSC0nb/view)
 
 ## Spreadsheets
 * [Indy](https://docs.google.com/spreadsheets/d/1I0Z58BMLIC8ZGQpHkGVBMqdQeMIUXuDeAh0DBeeGNMY/edit#gid=13406690)
