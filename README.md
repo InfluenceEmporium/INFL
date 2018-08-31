@@ -15,7 +15,7 @@ This wiki will contain work instructions for several subjects of the game.
 ## Services
 * Fleet up - [Join now](http://fleet-up.com/Group/Join/121BD84BC507BE535ADA71E8EAFA6D88) / [Doctrines](http://fleet-up.com/Doctrine/Index/49960)
 * Discord - [Download](http://discordapp.com/) / [Join now](http://discord.gg/83Khnxq)
-* Teamspeak - [Download](http://www.teamspeak3.com) -> Server: bruteforce.solutions
+* Teamspeak - [Download](http://www.teamspeak3.com) -> [Join now](https://drive.google.com/file/d/1MQ6tiW4vZjxbDHg1b9F_sxGrByTSC0nb/view)
 
 
 ## Spreadsheets
