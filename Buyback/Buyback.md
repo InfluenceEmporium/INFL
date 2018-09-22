@@ -14,6 +14,9 @@ This page will guide you on a step-by-step process to submit corporation contrac
 ## IMPORTANT NOTE
 We ask you not to mix ORE and Minerals with other stuff that you want to sell.
 ORE and Minerals must be placed under an independent Coporation contract to be valid and accepted.
+There are two reasons for that:
+1. Uncompressed Ore has a slightly different buy back process (the reason for that is that the hauling cost to Jita should not be accounted for in the Ore buyback, otherwise it will yield negative value for those selling their stuff);
+2. The might want to use a different wallet division to perform the Ore and Minerals buyback.
 
 ## PRICE EVALUATION
 1. Open your Item Hangar
@@ -27,7 +30,24 @@ ORE and Minerals must be placed under an independent Coporation contract to be v
 
 ![Example](buyback.gif)
 
-## CONTRACT SET-UP
+## CONTRACT SET-UP (ORE and MINERALS Only)
+1. Use the **90% Jita Buy Price** from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253) as the value for your contract.
+2. Create a Contract using the following options:
+**Contract Type** - Item Exchange
+
+**Availablity** - Private
+
+**Name** - INFLUENCE EMPORIUM
+
+**I Will Receive** - "90% Jita Buy Price" from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253).
+
+**Expiration** - 1 Week
+
+**Description** - Buyback Program - "EVEPRAISAL ID"
+
+**NOTE:** On the description use the EVEPRAISAL ID that you pasted in the Q-Tip spreadsheet, example: "ORE Buyback Program - huh8f"
+
+## CONTRACT SET-UP (NON-ORE)
 1. Use the **Q-Tip Wrecker Value** as the value for your contract.
 2. Create a Contract using the following options:
 **Contract Type** - Item Exchange
