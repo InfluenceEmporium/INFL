@@ -19,5 +19,5 @@ This wiki will contain work instructions for several subjects of the game.
 
 
 ## Spreadsheets
-* [Indy - Q-Tip](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253)
+* [Indy-Q-Tip](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253)
 * [Anomalies](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=961307565)
