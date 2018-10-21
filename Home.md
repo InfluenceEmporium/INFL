@@ -18,5 +18,5 @@ This wiki will contain work instructions for several subjects of the game.
 * Teamspeak - [Download](http://www.teamspeak3.com) -> [Join now](https://drive.google.com/file/d/1MQ6tiW4vZjxbDHg1b9F_sxGrByTSC0nb/view)
 
 ## Spreadsheets
-* [Q-Tip](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253)
+* [Indy-Q-Tip](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253)
 * [Anomalies](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=961307565)
