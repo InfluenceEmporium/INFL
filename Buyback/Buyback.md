@@ -31,7 +31,7 @@ There are two reasons for that:
 ![Example](buyback.gif)
 
 ## CONTRACT SET-UP (ORE and MINERALS Only)
-1. Use the **90% Jita Buy Price** from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253) as the value for your contract.
+1. Use the **90% Jita Buy Price** from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1CsxyZ_1JfQ4zPc4m4qY5Yl1OdcFc0vGr_zBPANfXjAo/edit#gid=134055253) as the value for your contract.
 2. Create a Contract using the following options:
 **Contract Type** - Item Exchange
 
