@@ -25,13 +25,13 @@ There are two reasons for that:
 4. Go to [Evepraisal.com](https://evepraisal.com/).
 5. Paste the selected items in the Quick Estimate window using Jita as the market and submit your query.
 6. Copy the generated key (EVEPRAISAL ID) for your query located on your browser's address bar.
-7. Open the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253)
+7. Open the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1CsxyZ_1JfQ4zPc4m4qY5Yl1OdcFc0vGr_zBPANfXjAo/edit?usp=sharing)
 8. Paste the EVEPRAISAL ID in the spreadsheet (and wait for the magic to happen)
 
 ![Example](buyback.gif)
 
 ## CONTRACT SET-UP (ORE and MINERALS Only)
-1. Use the **90% Jita Buy Price** from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1CsxyZ_1JfQ4zPc4m4qY5Yl1OdcFc0vGr_zBPANfXjAo/edit#gid=134055253) as the value for your contract.
+1. Use the **90% Jita Buy Price** from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1CsxyZ_1JfQ4zPc4m4qY5Yl1OdcFc0vGr_zBPANfXjAo/edit?usp=sharing) as the value for your contract.
 2. Create a Contract using the following options:
 **Contract Type** - Item Exchange
 
@@ -39,7 +39,7 @@ There are two reasons for that:
 
 **Name** - INFLUENCE EMPORIUM
 
-**I Will Receive** - "90% Jita Buy Price" from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253).
+**I Will Receive** - "90% Jita Buy Price" from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1CsxyZ_1JfQ4zPc4m4qY5Yl1OdcFc0vGr_zBPANfXjAo/edit?usp=sharing).
 
 **Expiration** - 1 Week
 
@@ -56,7 +56,7 @@ There are two reasons for that:
 
 **Name** - INFLUENCE EMPORIUM
 
-**I Will Receive** - Q-Tip Wrecker Value from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1rv6fjyzQETQr7ImTrDPX-vCvUHph4A6CZrm_jYCT3XE/edit#gid=134055253).
+**I Will Receive** - Q-Tip Wrecker Value from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1CsxyZ_1JfQ4zPc4m4qY5Yl1OdcFc0vGr_zBPANfXjAo/edit?usp=sharing).
 
 **Expiration** - 1 Week
 
