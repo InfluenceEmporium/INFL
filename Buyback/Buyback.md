@@ -48,7 +48,7 @@ There are two reasons for that:
 **NOTE:** On the description use the EVEPRAISAL ID that you pasted in the Q-Tip spreadsheet, example: "ORE Buyback Program - huh8f"
 
 ## CONTRACT SET-UP (NON-ORE)
-1. Use the **Q-Tip Wrecker Value** as the value for your contract.
+1. Use the **Buyback Value** as the value for your contract.
 2. Create a Contract using the following options:
 **Contract Type** - Item Exchange
 
@@ -56,7 +56,7 @@ There are two reasons for that:
 
 **Name** - INFLUENCE EMPORIUM
 
-**I Will Receive** - Q-Tip Wrecker Value from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1CsxyZ_1JfQ4zPc4m4qY5Yl1OdcFc0vGr_zBPANfXjAo/edit#gid=134055253).
+**I Will Receive** - Buyback Value from the [Q-Tip Spreadsheet](https://docs.google.com/spreadsheets/d/1CsxyZ_1JfQ4zPc4m4qY5Yl1OdcFc0vGr_zBPANfXjAo/edit#gid=134055253).
 
 **Expiration** - 1 Week
 
